@@ -1,1 +1,1 @@
-This repo has a script to print the absolute path name of the current working directory
+This is a devops project repo
