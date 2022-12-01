@@ -3,3 +3,4 @@ The file "1-listit has a script to display contents of current directory
 The file "2-bring_me_home" has a script to change current dir to users home dir
 The file "3-listfiles" has a script to display working dir contents in long format
 The file "4-listmorefiles" has a script to display all contents of a directory including the hidden ones
+The file "5-listfilesdigitonly" has a script to display directory content with user and group IDs displayed numerically
