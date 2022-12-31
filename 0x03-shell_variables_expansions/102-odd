@@ -1,0 +1,2 @@
+#!/bin/bash
+mawk 'NR % 2 == 1'
